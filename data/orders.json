@@ -1,0 +1,93 @@
+[
+    {
+        "id_pesanan": "ORD-6a0a66f351756",
+        "email": "ikbal.dzakwan@gmail.com",
+        "alamat": "madiun caruban",
+        "items": {
+            "PRD-001": "5",
+            "PRD-002": "3"
+        },
+        "total_bayar": 1350000,
+        "status": "Dibatalkan",
+        "tanggal": "2026-05-18 03:10:11"
+    },
+    {
+        "id_pesanan": "ORD-6a0a6716d360d",
+        "email": "ikbal.dzakwan@gmail.com",
+        "alamat": "madiun",
+        "items": {
+            "PRD-001": "1",
+            "PRD-002": "1"
+        },
+        "total_bayar": 420000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-18 03:10:46"
+    },
+    {
+        "id_pesanan": "ORD-6a0a6b8ac3bcf",
+        "email": "ikbal.dzakwan@gmail.com",
+        "alamat": "madiun",
+        "items": {
+            "PRD-001": "1",
+            "PRD-002": "1"
+        },
+        "total_bayar": 420000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-18 03:29:46"
+    },
+    {
+        "id_pesanan": "ORD-6a0a736b300b3",
+        "email": "ikbal.dzakwan@gmail.com",
+        "alamat": "caruban madiun",
+        "items": {
+            "PRD-001": "1"
+        },
+        "total_bayar": 170000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-18 04:03:23"
+    },
+    {
+        "id_pesanan": "ORD-6a0a7412f0bea",
+        "email": "ikbal.dzakwan@gmail.com",
+        "alamat": "caruban ",
+        "items": {
+            "PRD-001": "1"
+        },
+        "total_bayar": 170000,
+        "status": "Selesai",
+        "tanggal": "2026-05-18 04:06:10"
+    },
+    {
+        "id_pesanan": "ORD-6a0a75c38cde5",
+        "email": "admin@gmail.com",
+        "alamat": "caruban",
+        "items": {
+            "PRD-001": "1"
+        },
+        "total_bayar": 170000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-18 04:13:23"
+    },
+    {
+        "id_pesanan": "ORD-6a0a7681b6bbf",
+        "email": "ikbal.dzakwan@gmail.com",
+        "alamat": "caruban madiun",
+        "items": {
+            "PRD-004": "1"
+        },
+        "total_bayar": 20100,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-18 04:16:33"
+    },
+    {
+        "id_pesanan": "ORD-6a0a76a2e5b27",
+        "email": "ikbal.dzakwan@gmail.com",
+        "alamat": "madiun",
+        "items": {
+            "PRD-004": "1"
+        },
+        "total_bayar": 20100,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-18 04:17:06"
+    }
+]

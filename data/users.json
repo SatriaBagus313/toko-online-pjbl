@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "test",
+        "email": "test@mail.com",
+        "password": "$2y$12$TVNtOBx8xd26kdG\/8soZYOn6osE0hYChf8zFpu4TIztmFYnTZXck6",
+        "role": "admin"
+    },
+    {
+        "nama": "Ikbal Dzakwan",
+        "email": "ikbal.dzakwan@gmail.com",
+        "password": "$2y$10$Iv4nxZo8cOneqV9KHqWitOQWTDKAqFKqwiDmjIbblntuBzlkJQrQO",
+        "role": "pelanggan"
+    },
+    {
+        "nama": "Konsumen1",
+        "email": "massikball16@gmail.com",
+        "password": "$2y$10$wmkAOa61WAOgZVrNvhzsiuS6S7tEsRxQzuR.X6MnUa3oUojO4tzqK",
+        "role": "pelanggan"
+    },
+    {
+        "nama": "admin1",
+        "email": "admin@gmail.com",
+        "password": "$2y$10$LmCwlBoqZLCnGZf.US2N0.UOMspqPDtKpI\/Wud4Wd7WQVDWHN5bMC",
+        "role": "admin"
+    }
+    
+]

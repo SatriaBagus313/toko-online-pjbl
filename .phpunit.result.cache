@@ -1,0 +1,1 @@
+{"version":2,"defects":{"CatalogTest::testSearchProductFound":8,"CatalogTest::testSearchProductEmptyKeyword":8},"times":{"CatalogTest::testSearchProductFound":0.004,"CatalogTest::testSearchProductEmptyKeyword":0.001}}
