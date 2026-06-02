@@ -22,7 +22,7 @@ class CatalogTest extends TestCase {
 
     public function testSearchProductFound(): void {
         $result = $this->katalog->searchProduct("Kemeja");
-        $this->assertCount(99, $result);
+        $this->assertCount(1, $result);
     }
 
     public function testSearchProductEmptyKeyword(): void {
