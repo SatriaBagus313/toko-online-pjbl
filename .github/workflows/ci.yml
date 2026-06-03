@@ -17,7 +17,7 @@ jobs:
         extensions: mbstring, json, dom, libxml, xml
 
     - name: Install PHP Dependencies
-      run: composer install --prefer-dist --no-progress
+      run: composer install --prefer-dist --no-progress --ignore-platform-reqs
 
     - name: Run Automated Tests
       run: |
